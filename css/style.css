@@ -389,7 +389,7 @@ figure figcaption {
 }
 
 .container-wrap {
-  max-width: 1170px;
+  max-width: 100%;
   margin: 0 auto;
 }
 
@@ -2294,4 +2294,13 @@ footer ul {
   padding-bottom: 10px;
   text-align: right;
   font-weight: 600;
+}
+
+
+
+#redescontacto tr td {
+  position:relative;
+  float: left;
+  width:100%;
+
 }
