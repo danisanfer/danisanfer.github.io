@@ -14,7 +14,7 @@ export default {
     },
     {
       title: "Catalan",
-      skillName: "Valenci&aagrave;",
+      skillName: "Valenci&agrave;",
       color: "1",
       percentage: "95",
     }
@@ -23,7 +23,7 @@ export default {
     web: [
       {
         projectName: "danisanfer | Desarrollador web",
-        image: "images/cv-linkscode.png",
+        image: "",
         summary: "Una One-Page sencilla y adaptada a mis redes y proyectos como desarrollador web",
         preview: "https://danisanfer.github.io/",
         techStack: [
@@ -35,10 +35,10 @@ export default {
       },
       {
         projectName: "danisanfer | Desarrollador Web",
-        image: "images/cv-linkscode.png",
+        image: "",
         summary:
           "Una One-Page sencilla y adaptada a mis redes y proyectos como desarrollador web.",
-        preview: "https://arturocode.github.io/links/",
+        preview: "",
         techStack: [
           "HTML",
           "CSS",
@@ -47,10 +47,10 @@ export default {
       },
       {
         projectName: "danisanfer | Desarrollador Web",
-        image: "images/cv-linkscode.png",
+        image: "",
         summary:
           "Una One-Page sencilla y adaptada a mis redes y proyectos como desarrollador web.",
-        preview: "https://arturocode.github.io/links/",
+        preview: "",
         techStack: [
           "HTML",
           "CSS",
@@ -124,7 +124,7 @@ export default {
   experience: [
     {
       title: "Unae Digital",
-      duration: "  - actualidad",
+      duration: "2013 - actualidad",
       subtitle: "2013 - Desarrollador web e-commerce",
       details: [
         "Desarrollador web especializado en desarrollo software, consultoría, optimización y usabilidad web e-commerce en la agencia Unae Digital",
