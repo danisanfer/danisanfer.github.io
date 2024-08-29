@@ -176,10 +176,10 @@ export default {
   education: [
     {
       title: "Ingeniero Técnico en Informática de Gestión",
-      duration: "2009-2012",
+      duration: "2008-2012",
       subtitle: "Universidad de Alicante",
       details: [
-        "",
+        "Tecnologías y aprendizajes",
       ],
       tags: [
         "Algoritmos",
@@ -218,18 +218,82 @@ export default {
       ],
     },
     {
-      title: "",
-      duration: "",
+      title: "Curso de Tratamiento de Imágenes",
+      duration: "2013",
+      subtitle: "Futur0 school",
+      details: [
+        "",
+      ],
+      tags: [
+        "Imágenes",
+        "Optimización",
+        "Impresión",
+        "Compresión de Imágenes",
+      ],
+    },
+    {
+      title: "Curso de Marketing Online y Posicionamiento Web",
+      duration: "2015",
       subtitle: "",
       details: [
         "",
       ],
       tags: [
+        "Posicionamiento SEO",
+        "Optimización Web",
+        "Tests A/B",
+        "Semrush",
+        "Screaming Frog"
+      ],
+    },
+    {
+      title: "Curso online de Gráficos para desarrolladores Web (Three.js)",
+      duration: "2016",
+      subtitle: "Universidad Pompeu Fabra",
+      details: [
         "",
+      ],
+      tags: [
+        "Javascript",
+        "Gráficos 3D",
+        "Texturas",
+        "Luces",
+      ],
+    },
+    {
+      title: "Curso de Ecommerce Growth Hacking",
+      duration: "2023",
+      subtitle: "Product Hackers School",
+      details: [
         "",
+      ],
+      tags: [
+        "Analítica Web",
+        "Analítica de Datos",
+        "Optimización Web",
+        "Tests A/B",
+        "Looker Studio",
+      ],
+    },
+    {
+      title: "CS50W Web Programming with Python and Javascript",
+      duration: "2024",
+      subtitle: "Harvard University",
+      details: [
         "",
-        "",
-        "",
+      ],
+      tags: [
+        "Desarrollo de aplicaciones Web",
+        "HTML",
+        "CSS",
+        "GIT",
+        "Python",
+        "Django",
+        "SQL",
+        "SQLite",
+        "Javascript",
+        "Testing"
+
       ],
     },
   ],
