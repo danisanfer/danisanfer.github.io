@@ -67,7 +67,7 @@ export default {
         preview: "",
         techStack: ["HTML", "CSS", "JavaScript", "jQuery..."],
       },
-      {
+      /*{
         projectName: "Title",
         image: "",
         summary: "Próximamente.",
@@ -81,6 +81,7 @@ export default {
         preview: "#",
         techStack: [""],
       }
+      */
     ],
     freelance: [
       {
@@ -97,7 +98,7 @@ export default {
           "MySQL...",
         ],
       },
-      {
+      /*{
         projectName: "",
         image: "",
         summary: "",
@@ -120,6 +121,7 @@ export default {
           "node.js..."
         ],
       },
+      */
     ],
   },
 
@@ -284,10 +286,10 @@ export default {
       duration: "2024",
       subtitle: "Harvard University",
       details: [
-        "",
+        "", 
       ],
       tags: [
-        "Desarrollo de aplicaciones Web",
+        "Desarrollo de aplicaciones Web ",
         "HTML",
         "CSS",
         "GIT",
