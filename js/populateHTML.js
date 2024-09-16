@@ -166,6 +166,9 @@ function populateExp_Edu(items, id) {
 function populateLinks(items, id) {
   let footer = document.getElementById(id);
 
+  if (typeof items.length !== 'undefined') {
+    
+
   for (let i = 0; i < items.length; i++) {
     if (items[i].label != "copyright-text") {
       let span = document.createElement("span");
@@ -211,11 +214,14 @@ function populateLinks(items, id) {
       footer.append(div);
     }
   }
+
+  } else {
+
+  }
+
 }
 
 //LLAMADAS A FUNCIONES
-
-console.log(data.footer);
 
 populateLanguages(data.languages, "languages");
 
