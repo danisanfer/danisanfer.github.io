@@ -215,6 +215,8 @@ function populateLinks(items, id) {
 
 //LLAMADAS A FUNCIONES
 
+console.log(data.footer);
+
 populateLanguages(data.languages, "languages");
 
 //populateProjects(data.projects.web, "web-projects");
