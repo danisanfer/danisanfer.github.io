@@ -19,6 +19,7 @@ export default {
       percentage: "95",
     }
   ],
+
   projects: {
     web: [
       {
@@ -121,6 +122,7 @@ export default {
       },
     ],
   },
+
   experience: [
     {
       title: "Unae Digital",
@@ -140,7 +142,7 @@ export default {
         "Shopify",
       ],
     },
-    {
+    /*{
       title: "",
       duration: "",
       subtitle: "",
@@ -172,7 +174,9 @@ export default {
         "Programas",
       ],
     },
+    */
   ],
+
   education: [
     {
       title: "Ingeniero Técnico en Informática de Gestión",
