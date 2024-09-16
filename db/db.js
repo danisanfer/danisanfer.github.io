@@ -143,40 +143,7 @@ export default {
         "PrestaShop",
         "Shopify",
       ],
-    },
-    /*{
-      title: "",
-      duration: "",
-      subtitle: "",
-      details: [
-        "",
-      ],
-      tags: [
-        "Windows",
-        "Java",
-        "Internet Explorer",
-        "Legalia",
-        "Deposito Digital D2",
-      ],
-    },
-    {
-      title: "",
-      duration: "",
-      subtitle: "",
-      details: [
-        "",
-      ],
-      tags: [
-        "Windows",
-        "Ubuntu",
-        "Thunderbird",
-        "Backup",
-        "Office",
-        "Soporte Técnico",
-        "Programas",
-      ],
-    },
-    */
+    }
   ],
 
   education: [

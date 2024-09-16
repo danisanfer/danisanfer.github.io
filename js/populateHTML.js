@@ -95,6 +95,9 @@ function populateProjects(items, id) {
 function populateExp_Edu(items, id) {
   let mainContainer = document.getElementById(id);
 
+  console.log(mainContainer);
+  console.log(items.length);
+
   for (let i = 0; i < items.length; i++) {
     let spanTimelineSublabel = document.createElement("span");
     spanTimelineSublabel.className = "timeline-sublabel";
