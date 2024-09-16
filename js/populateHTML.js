@@ -232,4 +232,4 @@ populateLanguages(data.languages, "languages");
 populateExp_Edu(data.experience, "experience");
 populateExp_Edu(data.education, "education");
 
-populateLinks(data.footer, "footer");
+//populateLinks(data.footer, "footer");
