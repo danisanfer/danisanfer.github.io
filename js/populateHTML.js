@@ -150,7 +150,7 @@ function populateExp_Edu(items, id) {
     mainContainer.append(article);
   }
 
-  let divTimelineIcon = document.createElement("div");
+  /*let divTimelineIcon = document.createElement("div");
   divTimelineIcon.className = "timeline-icon color-2";
 
   let divTimelineEntryInner = document.createElement("div");
@@ -161,7 +161,7 @@ function populateExp_Edu(items, id) {
   article.className = "timeline-entry begin animate-box";
   article.append(divTimelineEntryInner);
 
-  mainContainer.append(article);
+  mainContainer.append(article);*/
 }
 
 //LINKS DEL FOOTER

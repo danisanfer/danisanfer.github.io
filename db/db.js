@@ -25,37 +25,37 @@ export default {
       {
         projectName: "danisanfer | Desarrollador web",
         image: "",
-        summary: "Una One-Page sencilla y adaptada a mis redes y proyectos como desarrollador web",
+        summary: "Mi CV como desarrollador web",
         preview: "https://danisanfer.github.io/",
         techStack: [
           "HTML",
           "Bootstrap",
           "JavaScript",
-          "CSS...",
+          "CSS",
         ],
       },
       {
         projectName: "danisanfer | Desarrollador Web",
         image: "",
         summary:
-          "Una One-Page sencilla y adaptada a mis redes y proyectos como desarrollador web.",
+          "Mi CV como desarrollador web",
         preview: "",
         techStack: [
           "HTML",
           "CSS",
-          "Bootstrap..."
+          "Bootstrap"
         ],
       },
       {
         projectName: "danisanfer | Desarrollador Web",
         image: "",
         summary:
-          "Una One-Page sencilla y adaptada a mis redes y proyectos como desarrollador web.",
+          "Mi CV como desarrollador web",
         preview: "",
         techStack: [
           "HTML",
           "CSS",
-          "Bootstrap..."
+          "Bootstrap"
         ],
       },
     ],
@@ -140,6 +140,7 @@ export default {
         "Bootstrap",
         "jQuery",
         "PHP",
+        "MySQL",
         "PrestaShop",
         "Shopify",
       ],
@@ -152,7 +153,7 @@ export default {
       duration: "2008-2012",
       subtitle: "Universidad de Alicante",
       details: [
-        "Tecnologías y aprendizajes",
+        "Tecnologías",
       ],
       tags: [
         "Algoritmos",
@@ -171,27 +172,7 @@ export default {
       ],
     },
     {
-      title: "Formación complementaria",
-      duration: "2013 - Actualidad",
-      subtitle: "Harvard, Pompeu Fabra, Product Hackers School, Futur0 school",
-      details: [
-        "Cursos de growth hacking, marketing y posicionamiento web y desarrollo de aplicaciones web",
-      ],
-      tags: [
-        "Tratamiento de imágenes",
-        "SEO",
-        "Three.js",
-        "Growth Hacking",
-        "CRO",
-        "Python",
-        "Django",
-        "React",
-        "Git",
-        "Selenium",
-      ],
-    },
-    {
-      title: "Curso de Tratamiento de Imágenes",
+      title: "Tratamiento de Imágenes",
       duration: "2013",
       subtitle: "Futur0 school",
       details: [
@@ -205,7 +186,7 @@ export default {
       ],
     },
     {
-      title: "Curso de Marketing Online y Posicionamiento Web",
+      title: "Marketing Online y Posicionamiento Web",
       duration: "2015",
       subtitle: "",
       details: [
@@ -234,7 +215,7 @@ export default {
       ],
     },
     {
-      title: "Curso de Ecommerce Growth Hacking",
+      title: "Ecommerce Growth Hacking",
       duration: "2023",
       subtitle: "Product Hackers School",
       details: [
@@ -256,7 +237,7 @@ export default {
         "", 
       ],
       tags: [
-        "Desarrollo de aplicaciones Web ",
+        "Aplicaciones Web",
         "HTML",
         "CSS",
         "GIT",
@@ -265,8 +246,8 @@ export default {
         "SQL",
         "SQLite",
         "Javascript",
-        "Testing"
-
+        "Testing",
+        "Selenium"
       ],
     },
   ],
