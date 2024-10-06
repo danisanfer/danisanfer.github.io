@@ -15,7 +15,7 @@ export default {
     {
       title: "Catalan",
       skillName: "Valenci&agrave;",
-      color: "1",
+      color: "3",
       percentage: "95",
     }
   ],
@@ -128,7 +128,7 @@ export default {
   experience: [
     {
       title: "Unae Digital",
-      duration: "2013 - actualidad",
+      duration: "Enero 2013 - Actualidad",
       subtitle: "2013 - Desarrollador web e-commerce",
       details: [
         "Desarrollador web especializado en desarrollo software, consultoría, optimización y usabilidad web e-commerce en la agencia Unae Digital",
@@ -143,6 +143,10 @@ export default {
         "MySQL",
         "PrestaShop",
         "Shopify",
+        "WooCommerce",
+        "Marketplaces",
+        "SEO",
+        "Analytics"
       ],
     }
   ],
@@ -150,7 +154,7 @@ export default {
   education: [
     {
       title: "Ingeniero Técnico en Informática de Gestión",
-      duration: "2008-2012",
+      duration: "Septiembre 2008 - Julio 2012",
       subtitle: "Universidad de Alicante",
       details: [
         "Tecnologías",
@@ -172,23 +176,9 @@ export default {
       ],
     },
     {
-      title: "Tratamiento de Imágenes",
-      duration: "2013",
-      subtitle: "Futur0 school",
-      details: [
-        "",
-      ],
-      tags: [
-        "Imágenes",
-        "Optimización",
-        "Impresión",
-        "Compresión de Imágenes",
-      ],
-    },
-    {
       title: "Marketing Online y Posicionamiento Web",
-      duration: "2015",
-      subtitle: "",
+      duration: "Septiembre 2014 - Mayo 2015",
+      subtitle: "Grupo Futuro", 
       details: [
         "",
       ],
@@ -202,7 +192,7 @@ export default {
     },
     {
       title: "Curso online de Gráficos para desarrolladores Web (Three.js)",
-      duration: "2016",
+      duration: "Junio 2016 - Septiembre 2016",
       subtitle: "Universidad Pompeu Fabra",
       details: [
         "",
@@ -216,7 +206,7 @@ export default {
     },
     {
       title: "Ecommerce Growth Hacking",
-      duration: "2023",
+      duration: "Enero 2023 - Junio 2023",
       subtitle: "Product Hackers School",
       details: [
         "",
@@ -231,7 +221,7 @@ export default {
     },
     {
       title: "CS50W Web Programming with Python and Javascript",
-      duration: "2024",
+      duration: "Marzo 2024 - Septiembre 2024",
       subtitle: "Harvard University",
       details: [
         "", 
