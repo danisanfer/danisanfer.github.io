@@ -1,4 +1,4 @@
-# CV Virtual | Danisanfer
+# CV Virtual | Daniel Santos Ferreras
 #### Ingeniero Técnico Informática de Gestión por la Universidad de Alicante ####
 ### Esto es un currículum online en el que podrás conocer más sobre mi:
 
